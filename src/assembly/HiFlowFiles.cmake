@@ -1,0 +1,19 @@
+set(assembly_SOURCES
+  assembly_utils.cc
+  global_assembler.cc
+  quadrature_selection.cc
+  )
+
+set(assembly_PUBLIC_HEADERS
+  assembly_assistant_values.h
+  assembly_assistant.h
+  assembly_utils.h
+  dg_assembly_assistant.h
+  dg_assembly.h
+  function_values.h
+  generic_assembly_algorithm.h
+  global_assembler.h
+  hp_assembly.h
+  quadrature_selection.h
+  standard_assembly.h
+  )

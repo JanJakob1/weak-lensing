@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ex6_FoilStokes.dir/ex6_FoilStokes/ex6_FoilStokes.o  -o ex6_FoilStokes/ex6_FoilStokes -lhiflow 

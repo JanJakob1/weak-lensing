@@ -1,0 +1,2 @@
+# A novel solver for the inversion problem in weak gravitational lensing using quasi-conformal geometry
+Repository for the code in my Bachelor thesis in physics about weak gravitational lensing. When run one of the file inside the `weak lensing experiments` folder, the code computes the deflection field out of the reduced shear, which is in principle observable from the image ellipticities. We build our code upon the FEM framework hiflow3 from the [EMCL](https://emcl.iwr.uni-heidelberg.de/) at Heidelberg University.

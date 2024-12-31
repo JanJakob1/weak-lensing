@@ -1,0 +1,3 @@
+/home/jakob/Documents/Studium/Physik/6.Semester/Numerik 3 - CFD/hiflow3/exercises/CMakeFiles/rebuild_cache.dir
+/home/jakob/Documents/Studium/Physik/6.Semester/Numerik 3 - CFD/hiflow3/exercises/CMakeFiles/ex6_FoilStokes.dir
+/home/jakob/Documents/Studium/Physik/6.Semester/Numerik 3 - CFD/hiflow3/exercises/CMakeFiles/edit_cache.dir
